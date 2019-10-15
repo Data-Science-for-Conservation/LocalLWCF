@@ -2,7 +2,7 @@
 
 This repository holds the data, processing code, and source files for an article on the LWCF. Visualizations analyze local grant spend by county and review the impact of LWCF grants in New England.
 
-To read the article, check out [A local look at the LWCF here](https://hkuz.github.io/DataScienceForConservation_LWCF/)
+To read the article, check out [A local look at the LWCF here](https://data-science-for-conservation.github.io/LocalLWCF/)
 
 ## License
 
