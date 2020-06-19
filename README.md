@@ -2,11 +2,12 @@
 
 This repository holds the data, processing code, and source files for an article on the LWCF. Visualizations analyze local grant amounts by US county and review the impact of LWCF grants in New England.
 
-The article "A local look at the LWCF", including an interactive map with LWCF state grant dollars by US county, can be found [here](https://data-science-for-conservation.github.io/LocalLWCF/)
+**Where to Find Everything:**
 
-The steps to clean and combine datasets for the interactive map are found in the [LWCF grant value by county rollup Jupyter notebook](./Analysis/LWCF_Grant_Value_by_County_Rollup.ipynb).
+- ["A Local Look at the LWCF" article](https://data-science-for-conservation.github.io/LocalLWCF/): includes a write-up of the LWCF, an interactive map with LWCF state grant program dollars by US county, and highlights in New England
+- [New England Data Analysis Jupyter Notebook](./Analysis/LWCF_New_England_Funding_Analysis.ipynb): includes visualizations for LWCF state grant program funding for the six New England states
+- [Data Prep Jupyter Notebook](./Analysis/LWCF_Grant_Value_by_County_Rollup.ipynb): includes the steps to clean and combine datasets for the interactive map with LWCF grant value by county
 
-Visualizations for the six New England states are found in the [New England funding analysis Jupyter notebook](./Analysis/LWCF_New_England_Funding_Analysis.ipynb).
 
 ## License
 
@@ -16,7 +17,7 @@ Original datasets, which are saved in a `/Data` folder, retain any original lice
 ## Data Sources
 
 - LWCF Grants List 1965-2011: <a href="http://www.invw.org/2012/06/11/lwcf-grants-database-1283/" target="_blank">Investigate West</a>
-- County map data: <a href="www.census.gov" target="_blank">US Census Bureau</a>
+- County map data: <a href="https://www.census.gov/" target="_blank">US Census Bureau</a>
 
 ## Information Sources
 
