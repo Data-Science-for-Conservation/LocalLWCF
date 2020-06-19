@@ -2,7 +2,7 @@
 
 This repository holds the data, processing code, and source files for an article on the LWCF. Visualizations analyze local grant amounts by US county and review the impact of LWCF grants in New England.
 
-**Where to Find Everything:**
+**Key Repository Links:**
 
 - ["A Local Look at the LWCF" article](https://data-science-for-conservation.github.io/LocalLWCF/): includes a write-up of the LWCF, an interactive map with LWCF state grant program dollars by US county, and highlights in New England
 - [New England Data Analysis Jupyter Notebook](./Analysis/LWCF_New_England_Funding_Analysis.ipynb): includes visualizations for LWCF state grant program funding for the six New England states
